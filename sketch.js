@@ -74,7 +74,7 @@ function draw() {
 }
 
 function spawnDoors() {
-  if (frameCount % 40 === 0) {
+  if (frameCount % 200 === 0) {
     door = createSprite(200, -50);
     door.addImage("door", doorImg);
 
