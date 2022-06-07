@@ -1,5 +1,5 @@
 <h2 style=color:cyan><b>Welcome to the Ghost Runner Game!!!</b></h2>
------------------------------------------------------
+
 
 <h3>1. Use spacebar to go up the tower and try not to fall of the screen <br>
 2. Be careful of the enchanted thorns coming from above which are attached to a door <br>
